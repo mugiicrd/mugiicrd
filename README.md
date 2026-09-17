@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello Im Filip, i live in Poland. Im currently studying computer science in polish university. 
+Im interested in learning embedded systems but i dont have any experience with real life hardware.
+If you wanna ask, just ask!!
